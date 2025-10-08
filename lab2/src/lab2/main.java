@@ -9,7 +9,7 @@ public class main {
 		int x=10;
 		int y=20;
 
-		int m=75;
+		int lmm=75;
 	
 		for(int i = 1;i<=10 ;i++)
 	    {
