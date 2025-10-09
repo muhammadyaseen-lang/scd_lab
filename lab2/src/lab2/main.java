@@ -8,8 +8,6 @@ public class main {
 		
 		int x=10;
 		int y=20;
-		int lmn=100;
-		int asif=421;
 		for(int i = 1;i<=10 ;i++)
 	    {
 		    for(int j = 1;j<=x ;j++)
