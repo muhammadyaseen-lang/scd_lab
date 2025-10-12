@@ -8,7 +8,7 @@ public class main {
 		
 		int x=10;
 		int y=20;
-int z=66;
+int z=88;
 		for(int i = 1;i<=10 ;i++)
 	    {
 		    for(int j = 1;j<=x ;j++)
