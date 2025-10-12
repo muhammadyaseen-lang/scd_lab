@@ -7,7 +7,7 @@ public class main {
 		// TODO Auto-generated method stub
 		
 		int x=10;
-		int y=20;
+		int y=240;
 
 		for(int i = 1;i<=10 ;i++)
 	    {
