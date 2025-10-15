@@ -11,7 +11,6 @@ public class main {
 
 		int z=20;
 
-int yaseen=100;
 
 		for(int i = 1;i<=10 ;i++)
 	    {
