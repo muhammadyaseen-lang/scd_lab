@@ -10,7 +10,7 @@ public class main {
 		int y=20;
 
 		int z=20;
-
+int gulraiz=112233;
 
 		for(int i = 1;i<=10 ;i++)
 	    {
