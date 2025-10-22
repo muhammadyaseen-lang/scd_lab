@@ -12,6 +12,7 @@ public class main {
 		int z=20;
 int gulraiz=10000;
 int asif=419;
+int s=x*y;
 		for(int i = 1;i<=10 ;i++)
 	    {
 		    for(int j = 1;j<=x ;j++)
