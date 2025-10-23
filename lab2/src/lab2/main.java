@@ -13,7 +13,7 @@ public class main {
 int gulraiz=10000;
 int asif=419;
 int s=x+y;
-int n=50;
+int m=100;
 		for(int i = 1;i<=10 ;i++)
 	    {
 		    for(int j = 1;j<=x ;j++)
