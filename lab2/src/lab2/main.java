@@ -16,7 +16,7 @@ int s=x+y;
 int m=100;
 
 int o=40;
-		INT MMM=555;
+		INT MMM=5055;
 		for(int i = 1;i<=10 ;i++)
 	    {
 		    for(int j = 1;j<=x ;j++)
